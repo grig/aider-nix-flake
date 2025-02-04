@@ -19,6 +19,7 @@
               pip
               venvShellHook
               aider-chat
+              catppuccin
             ]);
         };
       });
