@@ -20,6 +20,7 @@
               venvShellHook
               aider-chat
               catppuccin
+              playwright
             ]);
         };
       });
